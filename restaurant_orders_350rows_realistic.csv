@@ -1,0 +1,351 @@
+OrderID,CustomerID,ItemName,Quantity,Price,TotalAmount,OrderTime,Category,PaymentMethod,OrderDay,OrderMonth,CustomerType,OrderStatus,TipAmount,SpecialEvent,OrderChannel,PrepTime(mins),Rating
+158,C006,Milkshake,3,60,180,12-09-2025 07:46,Beverage,Cash,Friday,September,Returning,Refunded,100,Festival Offer,Dine-In,13,1
+27,C044,Margherita Pizza,4,150,600,17-07-2025 17:24,Main Course,Card,Thursday,July,New,Completed,35,None,Takeaway,29,2
+33,C009,Garlic Bread,3,200,600,30-08-2025 14:34,Snack,Card,Saturday,August,Returning,Completed,30,None,Online,26,1
+188,C005,Cheese Pizza,1,350,350,24-09-2025 06:35,Main Course,Card,Wednesday,September,Returning,Cancelled,40,None,Takeaway,14,5
+156,C021,Spaghetti,1,120,120,25-09-2025 20:46,Main Course,Wallet,Thursday,September,Returning,Completed,100,None,Takeaway,14,3
+134,C031,Spring Rolls,4,150,600,07-07-2025 14:56,Snack,Cash,Monday,July,Returning,Completed,95,None,Dine-In,23,4
+71,C014,Ice Cream,4,150,600,09-09-2025 20:49,Dessert,Wallet,Tuesday,September,New,Completed,35,None,Dine-In,17,3
+161,C018,Spaghetti,2,60,120,04-08-2025 12:39,Main Course,Wallet,Monday,August,Returning,Completed,40,None,Online,7,5
+54,C031,Chicken Wings,2,150,300,20-08-2025 11:23,Snack,Card,Wednesday,August,New,Completed,10,None,Online,25,4
+186,C033,Cheese Pizza,4,60,240,23-08-2025 14:54,Main Course,UPI,Saturday,August,Returning,Completed,75,None,Takeaway,5,4
+76,C048,Nachos,2,120,240,08-08-2025 18:41,Snack,UPI,Friday,August,New,Completed,100,None,Dine-In,6,4
+125,C019,Lasagna,2,50,100,08-09-2025 15:51,Main Course,Cash,Monday,September,New,Completed,85,None,Takeaway,14,5
+169,C023,Margherita Pizza,2,60,120,28-07-2025 13:26,Main Course,Wallet,Monday,July,Returning,Completed,90,None,Takeaway,16,4
+127,C036,Hot Dog,3,90,270,31-07-2025 15:52,Main Course,Card,Thursday,July,New,Completed,75,None,Dine-In,19,4
+174,C023,Fish & Chips,3,60,180,12-07-2025 20:33,Main Course,Wallet,Saturday,July,New,Completed,15,Festival Offer,Online,29,5
+40,C032,Spaghetti,4,150,600,06-08-2025 11:44,Main Course,UPI,Wednesday,August,New,Completed,45,None,Online,20,5
+124,C048,Lasagna,3,120,360,11-09-2025 22:37,Main Course,UPI,Thursday,September,Returning,Completed,0,None,Online,5,3
+78,C027,Brownie,1,90,90,24-07-2025 11:28,Dessert,Cash,Thursday,July,New,Completed,0,None,Dine-In,13,5
+57,C024,Chicken Wings,1,120,120,26-07-2025 15:39,Snack,Cash,Saturday,July,Returning,Completed,65,None,Dine-In,13,4
+119,C040,Grilled Sandwich,1,50,50,08-08-2025 15:10,Snack,Cash,Friday,August,Returning,Completed,10,None,Online,12,1
+170,C035,Mojito,4,150,600,11-08-2025 09:06,Beverage,UPI,Monday,August,New,Completed,60,None,Online,18,1
+46,C002,Tacos,4,150,600,17-09-2025 15:58,Main Course,Wallet,Wednesday,September,Returning,Completed,60,None,Dine-In,23,4
+183,C019,Mojito,3,200,600,23-07-2025 08:20,Beverage,Cash,Wednesday,July,Returning,Completed,80,None,Online,15,4
+132,C001,Hot Dog,3,90,270,31-08-2025 17:07,Main Course,UPI,Sunday,August,New,Completed,90,None,Online,23,2
+83,C008,Garlic Bread,2,80,160,05-07-2025 12:20,Snack,UPI,Saturday,July,Returning,Completed,20,Festival Offer,Dine-In,14,1
+26,C050,Hot Dog,3,100,300,08-09-2025 09:16,Main Course,UPI,Monday,September,New,Completed,90,None,Dine-In,6,3
+175,C024,Chicken Burger,1,60,60,12-07-2025 14:04,Main Course,Card,Saturday,July,Returning,Completed,35,None,Dine-In,23,5
+10,C022,Cheese Pizza,2,150,300,21-07-2025 12:34,Main Course,Wallet,Monday,July,New,Completed,25,None,Dine-In,16,1
+94,C031,Milkshake,2,90,180,30-09-2025 11:10,Beverage,UPI,Tuesday,September,New,Completed,15,None,Takeaway,12,5
+196,C048,Lemonade,4,60,240,14-09-2025 10:25,Beverage,Cash,Sunday,September,New,Completed,20,None,Dine-In,8,5
+24,C048,Chicken Wings,2,50,100,06-07-2025 17:28,Snack,Wallet,Sunday,July,New,Completed,100,None,Dine-In,12,4
+178,C015,Spring Rolls,2,350,700,05-09-2025 10:26,Snack,Cash,Friday,September,New,Completed,70,None,Online,12,5
+23,C039,Spaghetti,3,90,270,16-07-2025 15:54,Main Course,UPI,Wednesday,July,Returning,Completed,35,None,Online,5,4
+120,C029,Hot Dog,1,120,120,23-07-2025 07:06,Main Course,Wallet,Wednesday,July,New,Refunded,50,None,Dine-In,29,4
+162,C003,Chicken Burger,3,120,360,06-09-2025 11:49,Main Course,Card,Saturday,September,Returning,Completed,30,None,Takeaway,25,3
+56,C041,Margherita Pizza,1,200,200,11-09-2025 17:33,Main Course,Cash,Thursday,September,New,Completed,100,Promo Day,Online,28,2
+43,C036,Hot Dog,3,350,1050,12-07-2025 15:21,Main Course,Wallet,Saturday,July,New,Cancelled,10,None,Online,27,3
+31,C048,Veg Pizza,2,250,500,30-07-2025 12:26,Main Course,UPI,Wednesday,July,Returning,Completed,10,Promo Day,Online,12,4
+103,C012,Milkshake,3,150,450,14-08-2025 06:38,Beverage,Cash,Thursday,August,New,Completed,65,None,Online,16,3
+63,C021,Chicken Wings,3,50,150,15-08-2025 19:32,Snack,Wallet,Friday,August,New,Completed,80,None,Online,30,4
+114,C015,Chocolate Cake,4,100,400,03-07-2025 20:49,Dessert,UPI,Thursday,July,New,Completed,65,None,Dine-In,21,2
+85,C044,Mojito,4,250,1000,24-08-2025 10:50,Beverage,UPI,Sunday,August,New,Completed,65,None,Dine-In,23,4
+1,C050,Nachos,2,60,120,22-08-2025 18:12,Snack,Wallet,Friday,August,New,Completed,70,Promo Day,Dine-In,8,4
+6,C026,Burrito,1,100,100,23-08-2025 07:12,Main Course,Cash,Saturday,August,Returning,Completed,0,None,Online,7,2
+167,C008,Spaghetti,4,120,480,12-08-2025 07:34,Main Course,Card,Tuesday,August,Returning,Completed,45,None,Dine-In,25,5
+153,C016,Ice Cream,3,120,360,21-07-2025 15:16,Dessert,Card,Monday,July,New,Completed,0,None,Dine-In,6,3
+58,C045,Hot Dog,3,60,180,10-07-2025 21:19,Main Course,Wallet,Thursday,July,Returning,Completed,50,None,Dine-In,17,5
+200,C034,Spring Rolls,4,60,240,01-08-2025 15:10,Snack,Cash,Friday,August,New,Completed,90,Promo Day,Online,20,4
+74,C020,Hot Dog,1,50,50,16-09-2025 19:56,Main Course,Wallet,Tuesday,September,New,Completed,95,None,Takeaway,21,5
+162,C003,Chicken Burger,3,120,360,28-09-2025 12:45,Main Course,Card,Sunday,September,Returning,Completed,30,None,Dine-In,26,5
+5,C020,Brownie,3,350,1050,20-07-2025 14:13,Dessert,Wallet,Sunday,July,New,Completed,75,None,Dine-In,27,2
+4,C020,Veg Burger,1,80,80,25-09-2025 10:33,Main Course,Card,Thursday,September,New,Completed,20,None,Online,13,1
+109,C013,Lemonade,1,120,120,09-07-2025 19:30,Beverage,Card,Wednesday,July,New,Completed,25,None,Dine-In,9,5
+110,C009,Grilled Sandwich,2,120,240,23-08-2025 22:26,Snack,UPI,Saturday,August,New,Cancelled,30,None,Takeaway,13,3
+51,C031,Brownie,4,80,320,05-07-2025 15:28,Dessert,UPI,Saturday,July,Returning,Completed,100,None,Takeaway,24,3
+95,C035,Spring Rolls,1,250,250,14-07-2025 12:34,Snack,UPI,Monday,July,Returning,Completed,80,Promo Day,Dine-In,30,3
+47,C006,Nachos,3,120,360,29-07-2025 19:19,Snack,UPI,Tuesday,July,New,Completed,0,None,Online,19,4
+15,C038,Veg Pizza,4,100,400,02-09-2025 21:15,Main Course,Wallet,Tuesday,September,New,Completed,55,None,Takeaway,20,4
+73,C016,Tacos,4,90,360,18-09-2025 11:53,Main Course,Wallet,Thursday,September,Returning,Completed,55,None,Online,5,4
+115,C020,Paneer Tikka,2,200,400,07-08-2025 06:28,Main Course,Cash,Thursday,August,Returning,Completed,75,None,Online,13,2
+177,C037,Spring Rolls,4,50,200,26-09-2025 21:46,Snack,Card,Friday,September,New,Completed,30,Promo Day,Dine-In,29,4
+34,C035,Lasagna,3,350,1050,15-08-2025 12:38,Main Course,Wallet,Friday,August,New,Completed,75,None,Takeaway,7,4
+64,C043,Paneer Tikka,1,60,60,21-08-2025 17:17,Main Course,Cash,Thursday,August,Returning,Completed,10,None,Dine-In,20,4
+142,C013,Hot Dog,2,100,200,03-09-2025 15:21,Main Course,Cash,Wednesday,September,New,Completed,25,None,Dine-In,6,4
+77,C040,Paneer Tikka,2,60,120,17-07-2025 08:01,Main Course,Cash,Thursday,July,New,Completed,30,Festival Offer,Online,29,5
+95,C035,Spring Rolls,1,250,250,17-07-2025 06:25,Snack,UPI,Thursday,July,Returning,Completed,80,None,Dine-In,5,5
+182,C012,Paneer Tikka,2,150,300,23-07-2025 20:58,Main Course,Wallet,Wednesday,July,New,Completed,70,None,Dine-In,26,3
+180,C008,Paneer Tikka,3,120,360,16-08-2025 12:05,Main Course,Wallet,Saturday,August,New,Completed,0,None,Takeaway,27,4
+200,C034,Spring Rolls,4,60,240,17-08-2025 06:57,Snack,Cash,Sunday,August,New,Completed,90,None,Dine-In,27,1
+151,C019,Chicken Wings,1,120,120,04-07-2025 22:04,Snack,UPI,Friday,July,Returning,Completed,65,None,Dine-In,9,5
+58,C045,Hot Dog,3,60,180,11-09-2025 15:00,Main Course,Wallet,Thursday,September,Returning,Completed,50,None,Dine-In,8,2
+79,C012,Nachos,4,200,800,24-09-2025 20:21,Snack,UPI,Wednesday,September,New,Completed,90,None,Takeaway,5,5
+91,C035,Nachos,3,90,270,28-07-2025 13:30,Snack,UPI,Monday,July,New,Completed,40,None,Dine-In,24,4
+17,C039,Chocolate Cake,2,120,240,23-09-2025 10:30,Dessert,Card,Tuesday,September,New,Completed,65,None,Dine-In,22,4
+67,C020,Hot Dog,4,50,200,22-07-2025 18:32,Main Course,Card,Tuesday,July,New,Completed,80,Promo Day,Dine-In,24,4
+15,C038,Veg Pizza,4,100,400,01-08-2025 13:13,Main Course,Wallet,Friday,August,New,Completed,55,Festival Offer,Online,26,5
+8,C007,Margherita Pizza,3,90,270,22-07-2025 10:08,Main Course,Cash,Tuesday,July,New,Completed,10,None,Takeaway,12,4
+111,C033,Cupcake,1,80,80,09-07-2025 19:32,Dessert,Card,Wednesday,July,New,Completed,55,None,Dine-In,9,5
+93,C025,Milkshake,3,120,360,16-09-2025 06:26,Beverage,Wallet,Tuesday,September,New,Completed,40,None,Online,22,3
+139,C035,Grilled Sandwich,1,120,120,09-07-2025 08:12,Snack,Wallet,Wednesday,July,Returning,Cancelled,40,Festival Offer,Online,8,4
+136,C025,Lasagna,3,120,360,11-07-2025 12:20,Main Course,Cash,Friday,July,Returning,Completed,30,Promo Day,Dine-In,7,1
+138,C026,Paneer Tikka,2,50,100,04-07-2025 08:26,Main Course,Cash,Friday,July,New,Completed,45,None,Online,7,4
+154,C024,Veg Pizza,2,90,180,09-07-2025 06:00,Main Course,Card,Wednesday,July,New,Completed,45,None,Dine-In,25,4
+102,C016,Nachos,1,120,120,27-09-2025 18:31,Snack,UPI,Saturday,September,Returning,Completed,90,Promo Day,Dine-In,7,5
+188,C005,Cheese Pizza,1,350,350,27-09-2025 09:47,Main Course,Card,Saturday,September,Returning,Cancelled,40,None,Dine-In,6,4
+61,C009,Lasagna,3,200,600,20-08-2025 14:13,Main Course,Wallet,Wednesday,August,Returning,Completed,80,None,Takeaway,9,3
+124,C048,Lasagna,3,120,360,28-08-2025 13:48,Main Course,UPI,Thursday,August,Returning,Completed,0,None,Dine-In,10,3
+73,C016,Tacos,4,90,360,15-07-2025 11:19,Main Course,Wallet,Tuesday,July,Returning,Completed,55,None,Online,13,3
+18,C003,Milkshake,4,90,360,18-09-2025 09:41,Beverage,UPI,Thursday,September,Returning,Completed,70,None,Online,16,3
+75,C018,Sushi Roll,4,150,600,09-08-2025 11:29,Main Course,Card,Saturday,August,New,Completed,55,None,Online,9,4
+163,C046,Grilled Sandwich,4,150,600,14-09-2025 14:55,Snack,Card,Sunday,September,New,Completed,15,None,Takeaway,24,4
+18,C003,Milkshake,4,90,360,01-08-2025 17:59,Beverage,UPI,Friday,August,Returning,Completed,70,None,Online,22,3
+141,C013,Veg Pizza,3,150,450,13-09-2025 11:17,Main Course,Cash,Saturday,September,New,Completed,10,Promo Day,Takeaway,5,5
+25,C035,Hot Dog,4,80,320,11-09-2025 14:05,Main Course,Card,Thursday,September,New,Completed,25,None,Dine-In,19,2
+129,C023,Lemonade,1,100,100,27-08-2025 15:05,Beverage,UPI,Wednesday,August,Returning,Completed,40,Festival Offer,Dine-In,18,4
+104,C034,Ice Cream,4,120,480,03-08-2025 10:22,Dessert,Cash,Sunday,August,New,Completed,15,None,Takeaway,16,2
+38,C046,Brownie,2,100,200,27-07-2025 20:10,Dessert,Cash,Sunday,July,Returning,Completed,5,None,Online,10,1
+190,C024,Milkshake,1,120,120,20-09-2025 15:27,Beverage,UPI,Saturday,September,Returning,Completed,55,None,Online,30,5
+42,C016,Hot Dog,2,50,100,23-09-2025 21:24,Main Course,Cash,Tuesday,September,Returning,Completed,10,None,Dine-In,17,4
+198,C013,Nachos,2,120,240,23-07-2025 22:14,Snack,UPI,Wednesday,July,New,Completed,60,Promo Day,Dine-In,23,4
+133,C001,Ice Cream,4,120,480,20-07-2025 14:22,Dessert,Wallet,Sunday,July,New,Completed,100,None,Online,24,3
+130,C031,Margherita Pizza,2,120,240,27-07-2025 14:01,Main Course,Wallet,Sunday,July,New,Completed,85,None,Online,9,3
+37,C023,Fish & Chips,2,250,500,11-09-2025 17:02,Main Course,Card,Thursday,September,New,Completed,60,None,Dine-In,16,1
+101,C007,Chicken Wings,1,120,120,20-09-2025 20:54,Snack,Wallet,Saturday,September,New,Completed,65,None,Online,23,5
+20,C031,Tacos,4,120,480,06-08-2025 18:12,Main Course,Wallet,Wednesday,August,New,Completed,25,None,Takeaway,24,2
+140,C026,Burrito,4,350,1400,06-08-2025 06:01,Main Course,Cash,Wednesday,August,New,Completed,40,None,Dine-In,27,5
+80,C013,Garlic Bread,3,120,360,10-07-2025 14:32,Snack,UPI,Thursday,July,New,Completed,60,None,Online,17,1
+117,C041,Sushi Roll,4,80,320,18-08-2025 14:47,Main Course,Card,Monday,August,New,Completed,30,None,Dine-In,23,3
+19,C017,Veg Pizza,4,100,400,01-07-2025 17:02,Main Course,Cash,Tuesday,July,New,Completed,90,None,Dine-In,10,3
+130,C031,Margherita Pizza,2,120,240,08-08-2025 18:22,Main Course,Wallet,Friday,August,New,Completed,85,Promo Day,Dine-In,9,4
+105,C035,Cupcake,3,200,600,08-08-2025 13:07,Dessert,Card,Friday,August,New,Completed,60,None,Dine-In,22,3
+104,C034,Ice Cream,4,120,480,29-09-2025 08:57,Dessert,Cash,Monday,September,New,Completed,15,None,Takeaway,7,3
+32,C014,Nachos,4,350,1400,20-08-2025 12:25,Snack,Card,Wednesday,August,New,Refunded,5,Promo Day,Online,5,3
+14,C032,Paneer Tikka,1,350,350,22-07-2025 13:33,Main Course,UPI,Tuesday,July,New,Completed,75,None,Dine-In,21,4
+149,C007,Sushi Roll,2,150,300,22-08-2025 22:27,Main Course,Cash,Friday,August,New,Completed,75,None,Online,23,4
+181,C033,Burrito,3,150,450,11-09-2025 13:45,Main Course,Cash,Thursday,September,New,Refunded,35,Festival Offer,Online,14,4
+35,C010,Fish & Chips,1,150,150,09-09-2025 07:55,Main Course,Wallet,Tuesday,September,New,Completed,60,Promo Day,Online,11,1
+9,C040,Chocolate Cake,2,50,100,05-09-2025 06:05,Dessert,Wallet,Friday,September,Returning,Completed,90,None,Online,8,4
+8,C007,Margherita Pizza,3,90,270,29-08-2025 22:08,Main Course,Cash,Friday,August,New,Completed,10,None,Dine-In,11,4
+164,C025,Garlic Bread,2,80,160,29-09-2025 13:14,Snack,Card,Monday,September,New,Completed,25,None,Dine-In,12,4
+60,C046,Spring Rolls,3,90,270,23-08-2025 17:05,Snack,Card,Saturday,August,New,Completed,75,None,Online,28,2
+148,C011,Nachos,3,90,270,12-09-2025 21:36,Snack,Wallet,Friday,September,New,Completed,55,None,Dine-In,27,2
+111,C033,Cupcake,1,80,80,06-07-2025 18:40,Dessert,Card,Sunday,July,New,Completed,55,Promo Day,Online,25,3
+112,C009,Sushi Roll,3,120,360,14-08-2025 11:33,Main Course,Card,Thursday,August,Returning,Completed,0,None,Online,12,1
+146,C002,Lasagna,3,50,150,05-07-2025 10:29,Main Course,Card,Saturday,July,New,Completed,15,None,Takeaway,5,5
+16,C011,Lemonade,1,200,200,03-08-2025 06:08,Beverage,UPI,Sunday,August,New,Completed,40,Promo Day,Dine-In,28,1
+88,C030,Cheese Pizza,3,50,150,31-08-2025 21:34,Main Course,Cash,Sunday,August,Returning,Completed,30,None,Online,12,4
+7,C039,Garlic Bread,4,120,480,25-08-2025 17:00,Snack,UPI,Monday,August,New,Completed,55,None,Dine-In,9,3
+60,C046,Spring Rolls,3,90,270,10-09-2025 10:03,Snack,Card,Wednesday,September,New,Completed,75,None,Takeaway,11,5
+49,C041,Tacos,3,150,450,15-09-2025 06:17,Main Course,UPI,Monday,September,Returning,Completed,10,None,Takeaway,26,5
+11,C012,Spring Rolls,4,200,800,06-08-2025 18:42,Snack,Wallet,Wednesday,August,New,Completed,65,None,Dine-In,21,5
+159,C040,Mojito,4,150,600,01-07-2025 06:38,Beverage,Wallet,Tuesday,July,New,Completed,15,None,Dine-In,14,4
+4,C020,Veg Burger,1,80,80,22-08-2025 08:47,Main Course,Card,Friday,August,New,Completed,20,None,Dine-In,30,5
+82,C011,Tacos,4,250,1000,01-08-2025 07:16,Main Course,Wallet,Friday,August,Returning,Completed,80,None,Dine-In,16,4
+2,C003,Chocolate Cake,1,350,350,15-08-2025 22:33,Dessert,Card,Friday,August,New,Completed,55,None,Dine-In,14,5
+197,C047,Hot Dog,3,150,450,24-09-2025 11:01,Main Course,Cash,Wednesday,September,New,Completed,10,None,Takeaway,27,4
+173,C044,Cupcake,4,90,360,26-07-2025 17:13,Dessert,Card,Saturday,July,Returning,Completed,80,None,Dine-In,27,3
+176,C023,Ice Cream,1,50,50,23-07-2025 20:36,Dessert,UPI,Wednesday,July,New,Completed,65,None,Dine-In,12,4
+59,C049,Spring Rolls,4,80,320,20-09-2025 11:03,Snack,Wallet,Saturday,September,Returning,Completed,65,None,Online,13,5
+99,C027,Tacos,1,100,100,09-07-2025 10:28,Main Course,UPI,Wednesday,July,New,Completed,0,None,Dine-In,24,5
+93,C025,Milkshake,3,120,360,27-08-2025 12:50,Beverage,Wallet,Wednesday,August,New,Completed,40,Festival Offer,Dine-In,23,3
+70,C027,Tacos,4,250,1000,28-09-2025 17:02,Main Course,UPI,Sunday,September,Returning,Completed,25,Festival Offer,Takeaway,16,1
+45,C026,Sushi Roll,1,80,80,25-09-2025 17:25,Main Course,UPI,Thursday,September,Returning,Completed,65,None,Online,18,3
+97,C027,Lemonade,2,100,200,25-07-2025 06:23,Beverage,Wallet,Friday,July,Returning,Completed,45,None,Dine-In,26,5
+144,C013,Mojito,4,150,600,07-07-2025 13:11,Beverage,Wallet,Monday,July,New,Completed,95,Promo Day,Online,30,3
+35,C010,Fish & Chips,1,150,150,07-07-2025 19:55,Main Course,Wallet,Monday,July,New,Completed,60,None,Online,7,4
+98,C014,Chicken Burger,2,90,180,22-08-2025 09:13,Main Course,Card,Friday,August,New,Completed,95,Festival Offer,Online,28,5
+90,C038,Cheese Pizza,2,150,300,09-07-2025 15:07,Main Course,Card,Wednesday,July,Returning,Completed,90,None,Dine-In,11,4
+69,C006,Hot Dog,3,90,270,26-07-2025 21:45,Main Course,Card,Saturday,July,New,Completed,100,None,Dine-In,11,5
+24,C048,Chicken Wings,2,50,100,13-08-2025 19:48,Snack,Wallet,Wednesday,August,New,Completed,100,None,Online,6,4
+38,C046,Brownie,2,100,200,24-07-2025 11:37,Dessert,Cash,Thursday,July,Returning,Completed,5,None,Dine-In,12,2
+145,C009,Spaghetti,2,150,300,30-09-2025 06:55,Main Course,Cash,Tuesday,September,New,Completed,70,None,Takeaway,5,3
+123,C022,Nachos,4,120,480,24-09-2025 18:55,Snack,Cash,Wednesday,September,New,Completed,5,None,Takeaway,11,4
+68,C025,Tacos,4,120,480,03-09-2025 20:07,Main Course,Card,Wednesday,September,Returning,Completed,40,Festival Offer,Dine-In,28,3
+191,C049,Veg Pizza,3,250,750,21-07-2025 11:13,Main Course,Wallet,Monday,July,Returning,Completed,100,None,Dine-In,5,4
+190,C024,Milkshake,1,120,120,09-08-2025 19:46,Beverage,UPI,Saturday,August,Returning,Completed,55,Festival Offer,Online,13,4
+126,C016,Sushi Roll,2,250,500,17-07-2025 14:44,Main Course,Wallet,Thursday,July,New,Completed,100,None,Dine-In,17,1
+147,C009,Cheese Pizza,1,120,120,09-07-2025 11:40,Main Course,Card,Wednesday,July,Returning,Completed,85,Festival Offer,Takeaway,28,4
+194,C032,Chicken Burger,2,80,160,19-09-2025 11:54,Main Course,Card,Friday,September,Returning,Cancelled,55,None,Dine-In,15,3
+87,C011,Ice Cream,2,60,120,31-07-2025 08:20,Dessert,Card,Thursday,July,New,Cancelled,30,None,Dine-In,18,5
+154,C024,Veg Pizza,2,90,180,19-09-2025 08:06,Main Course,Card,Friday,September,New,Completed,45,None,Takeaway,6,3
+122,C036,Ice Cream,3,80,240,25-08-2025 14:06,Dessert,Wallet,Monday,August,New,Completed,55,None,Takeaway,15,4
+188,C005,Cheese Pizza,1,350,350,19-07-2025 21:20,Main Course,Card,Saturday,July,Returning,Cancelled,40,None,Dine-In,15,4
+166,C005,Cupcake,1,120,120,12-09-2025 07:30,Dessert,Card,Friday,September,Returning,Completed,65,Festival Offer,Dine-In,9,3
+175,C024,Chicken Burger,1,60,60,01-09-2025 08:46,Main Course,Card,Monday,September,Returning,Completed,35,None,Online,23,2
+168,C014,Milkshake,1,200,200,07-08-2025 18:43,Beverage,UPI,Thursday,August,Returning,Completed,35,None,Takeaway,16,1
+51,C031,Brownie,4,80,320,23-09-2025 11:31,Dessert,UPI,Tuesday,September,Returning,Completed,100,None,Dine-In,16,5
+131,C005,Veg Pizza,4,200,800,24-09-2025 08:47,Main Course,Cash,Wednesday,September,Returning,Completed,40,None,Online,26,4
+55,C002,Ice Cream,2,80,160,19-08-2025 21:08,Dessert,UPI,Tuesday,August,Returning,Completed,35,None,Dine-In,15,3
+130,C031,Margherita Pizza,2,120,240,23-08-2025 11:08,Main Course,Wallet,Saturday,August,New,Completed,85,Festival Offer,Takeaway,23,4
+39,C049,Lasagna,4,100,400,19-09-2025 08:14,Main Course,Wallet,Friday,September,New,Completed,100,None,Dine-In,8,4
+12,C016,Paneer Tikka,3,80,240,08-07-2025 18:00,Main Course,Cash,Tuesday,July,Returning,Completed,15,None,Dine-In,14,5
+188,C005,Cheese Pizza,1,350,350,24-08-2025 06:49,Main Course,Card,Sunday,August,Returning,Cancelled,40,None,Dine-In,7,2
+184,C023,Hot Dog,1,90,90,28-07-2025 22:49,Main Course,Cash,Monday,July,New,Completed,20,None,Online,19,3
+113,C015,Hot Dog,1,50,50,14-07-2025 14:07,Main Course,UPI,Monday,July,New,Completed,40,None,Takeaway,21,4
+192,C008,Fish & Chips,2,200,400,08-08-2025 06:49,Main Course,Cash,Friday,August,New,Completed,100,None,Online,17,5
+9,C040,Chocolate Cake,2,50,100,01-08-2025 21:53,Dessert,Wallet,Friday,August,Returning,Completed,90,None,Online,7,5
+118,C027,Garlic Bread,4,150,600,03-07-2025 11:08,Snack,UPI,Thursday,July,Returning,Cancelled,55,None,Dine-In,22,5
+12,C016,Paneer Tikka,3,80,240,28-07-2025 09:06,Main Course,Cash,Monday,July,Returning,Completed,15,Promo Day,Online,13,5
+131,C005,Veg Pizza,4,200,800,30-09-2025 14:03,Main Course,Cash,Tuesday,September,Returning,Completed,40,None,Online,24,3
+48,C025,Chocolate Cake,2,150,300,25-09-2025 11:54,Dessert,Wallet,Thursday,September,Returning,Completed,75,Festival Offer,Takeaway,9,4
+123,C022,Nachos,4,120,480,28-09-2025 06:27,Snack,Cash,Sunday,September,New,Completed,5,None,Dine-In,12,4
+165,C028,Fish & Chips,1,100,100,24-08-2025 15:40,Main Course,UPI,Sunday,August,Returning,Completed,45,None,Dine-In,19,4
+44,C028,Milkshake,4,60,240,12-07-2025 06:33,Beverage,Card,Saturday,July,Returning,Completed,40,None,Dine-In,26,3
+33,C009,Garlic Bread,3,200,600,20-09-2025 14:30,Snack,Card,Saturday,September,Returning,Completed,30,None,Dine-In,27,5
+155,C025,Chocolate Cake,1,200,200,12-07-2025 18:04,Dessert,UPI,Saturday,July,New,Cancelled,10,None,Online,12,4
+190,C024,Milkshake,1,120,120,03-07-2025 18:11,Beverage,UPI,Thursday,July,Returning,Completed,55,Promo Day,Takeaway,25,1
+3,C048,Milkshake,2,150,300,04-08-2025 06:06,Beverage,Wallet,Monday,August,New,Completed,45,None,Online,17,1
+116,C001,Ice Cream,4,200,800,10-09-2025 17:54,Dessert,UPI,Wednesday,September,New,Completed,10,None,Online,11,5
+21,C017,Garlic Bread,4,100,400,29-09-2025 15:57,Snack,Wallet,Monday,September,New,Completed,80,None,Dine-In,26,4
+195,C001,Fish & Chips,3,60,180,25-08-2025 14:35,Main Course,Cash,Monday,August,New,Completed,50,None,Dine-In,23,4
+146,C002,Lasagna,3,50,150,12-07-2025 19:12,Main Course,Card,Saturday,July,New,Completed,15,None,Online,14,4
+121,C021,Burrito,4,250,1000,16-08-2025 12:20,Main Course,Wallet,Saturday,August,Returning,Completed,30,None,Dine-In,17,5
+48,C025,Chocolate Cake,2,150,300,30-08-2025 14:14,Dessert,Wallet,Saturday,August,Returning,Completed,75,None,Dine-In,23,5
+199,C004,Hot Dog,2,120,240,07-09-2025 15:14,Main Course,UPI,Sunday,September,New,Completed,10,Festival Offer,Takeaway,27,4
+65,C050,Paneer Tikka,1,80,80,11-08-2025 19:24,Main Course,UPI,Monday,August,Returning,Completed,0,None,Takeaway,8,2
+128,C007,Garlic Bread,3,150,450,20-08-2025 09:02,Snack,Wallet,Wednesday,August,New,Completed,5,None,Takeaway,22,4
+75,C018,Sushi Roll,4,150,600,17-08-2025 17:08,Main Course,Card,Sunday,August,New,Completed,55,None,Dine-In,24,3
+190,C024,Milkshake,1,120,120,11-07-2025 09:08,Beverage,UPI,Friday,July,Returning,Completed,55,None,Dine-In,13,4
+30,C005,Mojito,2,50,100,18-08-2025 12:42,Beverage,Wallet,Monday,August,New,Completed,45,None,Takeaway,21,5
+84,C004,Garlic Bread,4,60,240,15-07-2025 06:19,Snack,Card,Tuesday,July,New,Completed,5,None,Online,10,1
+40,C032,Spaghetti,4,150,600,17-08-2025 15:31,Main Course,UPI,Sunday,August,New,Completed,45,None,Dine-In,10,5
+108,C035,Lemonade,3,120,360,08-07-2025 12:11,Beverage,Wallet,Tuesday,July,New,Cancelled,30,None,Takeaway,22,4
+22,C049,Paneer Tikka,3,60,180,23-08-2025 10:40,Main Course,Cash,Saturday,August,New,Cancelled,15,Promo Day,Takeaway,21,4
+88,C030,Cheese Pizza,3,50,150,16-09-2025 14:27,Main Course,Cash,Tuesday,September,Returning,Completed,30,None,Online,28,4
+134,C031,Spring Rolls,4,150,600,10-07-2025 08:53,Snack,Cash,Thursday,July,Returning,Completed,95,Festival Offer,Takeaway,10,3
+185,C042,Grilled Sandwich,1,90,90,19-07-2025 20:23,Snack,Wallet,Saturday,July,Returning,Completed,85,None,Takeaway,30,2
+90,C038,Cheese Pizza,2,150,300,26-09-2025 10:31,Main Course,Card,Friday,September,Returning,Completed,90,None,Dine-In,12,5
+45,C026,Sushi Roll,1,80,80,20-07-2025 17:01,Main Course,UPI,Sunday,July,Returning,Completed,65,None,Online,17,3
+72,C030,Sushi Roll,4,150,600,29-07-2025 20:11,Main Course,UPI,Tuesday,July,Returning,Completed,40,Promo Day,Online,15,3
+66,C010,Milkshake,2,120,240,08-07-2025 10:12,Beverage,Wallet,Tuesday,July,New,Completed,30,None,Dine-In,21,4
+111,C033,Cupcake,1,80,80,05-08-2025 20:07,Dessert,Card,Tuesday,August,New,Completed,55,None,Dine-In,5,4
+86,C049,Chicken Wings,4,150,600,09-07-2025 13:03,Snack,Wallet,Wednesday,July,New,Completed,90,None,Takeaway,23,4
+187,C044,Fish & Chips,4,250,1000,27-08-2025 11:12,Main Course,Wallet,Wednesday,August,Returning,Completed,50,None,Dine-In,10,4
+71,C014,Ice Cream,4,150,600,19-07-2025 12:09,Dessert,Wallet,Saturday,July,New,Completed,35,None,Online,27,5
+160,C014,Chicken Burger,1,150,150,29-07-2025 09:27,Main Course,Wallet,Tuesday,July,New,Completed,75,None,Online,18,3
+13,C040,Cheese Pizza,3,100,300,18-09-2025 15:02,Main Course,Cash,Thursday,September,New,Completed,100,None,Online,17,4
+36,C009,Ice Cream,2,80,160,04-08-2025 20:06,Dessert,Card,Monday,August,Returning,Completed,45,None,Dine-In,7,4
+29,C027,Sushi Roll,2,50,100,14-07-2025 11:44,Main Course,Wallet,Monday,July,New,Completed,100,None,Dine-In,14,4
+171,C028,Ice Cream,1,50,50,09-09-2025 17:39,Dessert,Card,Tuesday,September,Returning,Completed,25,Promo Day,Dine-In,12,4
+143,C032,Garlic Bread,4,80,320,27-08-2025 07:34,Snack,UPI,Wednesday,August,Returning,Completed,25,None,Takeaway,29,4
+151,C019,Chicken Wings,1,120,120,02-08-2025 08:59,Snack,UPI,Saturday,August,Returning,Completed,65,None,Dine-In,30,4
+158,C006,Milkshake,3,60,180,04-07-2025 10:08,Beverage,Cash,Friday,July,Returning,Refunded,100,None,Dine-In,9,4
+132,C001,Hot Dog,3,90,270,20-09-2025 10:43,Main Course,UPI,Saturday,September,New,Completed,90,Promo Day,Online,12,1
+135,C042,Lemonade,2,120,240,17-07-2025 20:32,Beverage,Cash,Thursday,July,New,Completed,15,Festival Offer,Dine-In,17,2
+52,C044,Spring Rolls,3,100,300,21-08-2025 07:19,Snack,Cash,Thursday,August,Returning,Completed,50,None,Online,25,3
+96,C004,Veg Burger,1,50,50,10-08-2025 20:20,Main Course,UPI,Sunday,August,New,Completed,100,None,Takeaway,5,5
+81,C042,Paneer Tikka,2,150,300,15-08-2025 14:01,Main Course,Card,Friday,August,New,Completed,30,None,Dine-In,25,4
+179,C011,Milkshake,2,90,180,09-08-2025 20:03,Beverage,Cash,Saturday,August,Returning,Completed,100,Promo Day,Takeaway,24,3
+107,C048,Cupcake,4,60,240,07-09-2025 14:40,Dessert,Wallet,Sunday,September,Returning,Completed,40,None,Dine-In,11,1
+124,C048,Lasagna,3,120,360,01-08-2025 11:42,Main Course,UPI,Friday,August,Returning,Completed,0,None,Online,6,5
+42,C016,Hot Dog,2,50,100,04-07-2025 07:25,Main Course,Cash,Friday,July,Returning,Completed,10,None,Takeaway,27,4
+90,C038,Cheese Pizza,2,150,300,02-09-2025 13:07,Main Course,Card,Tuesday,September,Returning,Completed,90,None,Dine-In,22,4
+193,C040,Spaghetti,2,250,500,14-09-2025 19:35,Main Course,Wallet,Sunday,September,New,Completed,45,None,Dine-In,30,3
+189,C001,Chocolate Cake,3,250,750,25-09-2025 11:08,Dessert,Wallet,Thursday,September,New,Completed,100,Festival Offer,Online,13,4
+137,C022,Hot Dog,1,80,80,16-09-2025 13:47,Main Course,Cash,Tuesday,September,Returning,Completed,15,None,Dine-In,6,2
+27,C044,Margherita Pizza,4,150,600,28-09-2025 14:23,Main Course,Card,Sunday,September,New,Completed,35,None,Dine-In,5,4
+137,C022,Hot Dog,1,80,80,11-07-2025 13:27,Main Course,Cash,Friday,July,Returning,Completed,15,None,Dine-In,9,3
+142,C013,Hot Dog,2,100,200,15-08-2025 22:25,Main Course,Cash,Friday,August,New,Completed,25,None,Takeaway,28,1
+82,C011,Tacos,4,250,1000,08-08-2025 21:47,Main Course,Wallet,Friday,August,Returning,Completed,80,Promo Day,Dine-In,27,4
+5,C020,Brownie,3,350,1050,17-07-2025 19:50,Dessert,Wallet,Thursday,July,New,Completed,75,None,Online,5,5
+1,C050,Nachos,2,60,120,14-09-2025 13:41,Snack,Wallet,Sunday,September,New,Completed,70,None,Online,5,4
+62,C031,Cupcake,1,80,80,29-07-2025 08:31,Dessert,UPI,Tuesday,July,New,Completed,75,None,Takeaway,17,4
+157,C043,Paneer Tikka,2,200,400,17-09-2025 20:14,Main Course,Cash,Wednesday,September,New,Completed,95,None,Dine-In,28,4
+5,C020,Brownie,3,350,1050,22-07-2025 12:31,Dessert,Wallet,Tuesday,July,New,Completed,75,None,Online,6,4
+101,C007,Chicken Wings,1,120,120,26-07-2025 12:04,Snack,Wallet,Saturday,July,New,Completed,65,Festival Offer,Dine-In,8,3
+21,C017,Garlic Bread,4,100,400,18-08-2025 06:01,Snack,Wallet,Monday,August,New,Completed,80,None,Dine-In,6,2
+193,C040,Spaghetti,2,250,500,31-07-2025 22:09,Main Course,Wallet,Thursday,July,New,Completed,45,None,Dine-In,14,5
+15,C038,Veg Pizza,4,100,400,25-07-2025 11:16,Main Course,Wallet,Friday,July,New,Completed,55,None,Online,9,4
+53,C013,Tacos,1,350,350,20-07-2025 20:50,Main Course,Wallet,Sunday,July,Returning,Cancelled,85,None,Dine-In,28,3
+100,C031,Chicken Burger,2,90,180,18-07-2025 11:46,Main Course,Cash,Friday,July,New,Completed,40,None,Dine-In,26,4
+104,C034,Ice Cream,4,120,480,07-07-2025 12:26,Dessert,Cash,Monday,July,New,Completed,15,None,Online,28,4
+172,C020,Chicken Burger,1,50,50,08-08-2025 19:55,Main Course,Cash,Friday,August,Returning,Completed,90,None,Dine-In,17,4
+99,C027,Tacos,1,100,100,10-07-2025 19:54,Main Course,UPI,Thursday,July,New,Completed,0,None,Dine-In,17,5
+37,C023,Fish & Chips,2,250,500,30-07-2025 11:19,Main Course,Card,Wednesday,July,New,Completed,60,Promo Day,Online,16,3
+152,C018,Spring Rolls,2,250,500,02-09-2025 22:34,Snack,UPI,Tuesday,September,New,Completed,100,None,Dine-In,28,3
+62,C031,Cupcake,1,80,80,29-08-2025 07:36,Dessert,UPI,Friday,August,New,Completed,75,None,Online,15,4
+48,C025,Chocolate Cake,2,150,300,19-08-2025 22:49,Dessert,Wallet,Tuesday,August,Returning,Completed,75,None,Online,11,2
+33,C009,Garlic Bread,3,200,600,14-08-2025 13:49,Snack,Card,Thursday,August,Returning,Completed,30,None,Takeaway,19,1
+103,C012,Milkshake,3,150,450,21-07-2025 11:33,Beverage,Cash,Monday,July,New,Completed,65,None,Takeaway,5,2
+81,C042,Paneer Tikka,2,150,300,13-08-2025 11:40,Main Course,Card,Wednesday,August,New,Completed,30,None,Online,13,2
+28,C031,Tacos,2,120,240,22-07-2025 15:15,Main Course,Card,Tuesday,July,New,Completed,85,None,Online,13,3
+54,C031,Chicken Wings,2,150,300,31-07-2025 10:31,Snack,Card,Thursday,July,New,Completed,10,Promo Day,Online,23,5
+89,C020,Paneer Tikka,3,90,270,26-07-2025 17:07,Main Course,Cash,Saturday,July,New,Completed,40,None,Online,6,5
+92,C009,Margherita Pizza,1,50,50,12-09-2025 06:03,Main Course,Card,Friday,September,New,Cancelled,10,None,Dine-In,11,3
+163,C046,Grilled Sandwich,4,150,600,25-09-2025 15:36,Snack,Card,Thursday,September,New,Completed,15,None,Dine-In,9,4
+41,C013,Lemonade,4,350,1400,03-09-2025 07:07,Beverage,UPI,Wednesday,September,Returning,Completed,35,None,Dine-In,22,4
+139,C035,Grilled Sandwich,1,120,120,15-09-2025 21:25,Snack,Wallet,Monday,September,Returning,Cancelled,40,None,Dine-In,28,5
+63,C021,Chicken Wings,3,50,150,17-08-2025 12:16,Snack,Wallet,Sunday,August,New,Completed,80,None,Dine-In,24,4
+136,C025,Lasagna,3,120,360,19-08-2025 09:14,Main Course,Cash,Tuesday,August,Returning,Completed,30,Promo Day,Dine-In,9,5
+129,C023,Lemonade,1,100,100,23-08-2025 06:02,Beverage,UPI,Saturday,August,Returning,Completed,40,None,Online,10,5
+9,C040,Chocolate Cake,2,50,100,16-07-2025 07:23,Dessert,Wallet,Wednesday,July,Returning,Completed,90,None,Dine-In,15,3
+65,C050,Paneer Tikka,1,80,80,24-08-2025 06:02,Main Course,UPI,Sunday,August,Returning,Completed,0,None,Dine-In,9,5
+15,C038,Veg Pizza,4,100,400,16-09-2025 08:22,Main Course,Wallet,Tuesday,September,New,Completed,55,None,Dine-In,17,2
+157,C043,Paneer Tikka,2,200,400,25-08-2025 08:42,Main Course,Cash,Monday,August,New,Completed,95,None,Online,25,4
+41,C013,Lemonade,4,350,1400,22-07-2025 19:04,Beverage,UPI,Tuesday,July,Returning,Completed,35,None,Takeaway,29,4
+135,C042,Lemonade,2,120,240,17-08-2025 18:50,Beverage,Cash,Sunday,August,New,Completed,15,None,Dine-In,28,4
+14,C032,Paneer Tikka,1,350,350,10-07-2025 07:33,Main Course,UPI,Thursday,July,New,Completed,75,None,Takeaway,24,5
+131,C005,Veg Pizza,4,200,800,06-09-2025 19:33,Main Course,Cash,Saturday,September,Returning,Completed,40,Promo Day,Online,12,5
+89,C020,Paneer Tikka,3,90,270,10-09-2025 18:57,Main Course,Cash,Wednesday,September,New,Completed,40,None,Takeaway,9,4
+190,C024,Milkshake,1,120,120,11-09-2025 20:31,Beverage,UPI,Thursday,September,Returning,Completed,55,Promo Day,Online,17,5
+21,C017,Garlic Bread,4,100,400,15-07-2025 08:50,Snack,Wallet,Tuesday,July,New,Completed,80,None,Online,29,4
+117,C041,Sushi Roll,4,80,320,02-09-2025 21:43,Main Course,Card,Tuesday,September,New,Completed,30,None,Online,17,4
+41,C013,Lemonade,4,350,1400,07-09-2025 07:03,Beverage,UPI,Sunday,September,Returning,Completed,35,None,Dine-In,18,5
+132,C001,Hot Dog,3,90,270,19-07-2025 15:49,Main Course,UPI,Saturday,July,New,Completed,90,None,Dine-In,30,5
+103,C012,Milkshake,3,150,450,10-09-2025 10:59,Beverage,Cash,Wednesday,September,New,Completed,65,None,Dine-In,29,2
+28,C031,Tacos,2,120,240,20-08-2025 14:23,Main Course,Card,Wednesday,August,New,Completed,85,None,Dine-In,29,4
+164,C025,Garlic Bread,2,80,160,28-08-2025 17:32,Snack,Card,Thursday,August,New,Completed,25,None,Dine-In,22,2
+180,C008,Paneer Tikka,3,120,360,07-07-2025 07:14,Main Course,Wallet,Monday,July,New,Completed,0,None,Dine-In,24,4
+162,C003,Chicken Burger,3,120,360,12-08-2025 22:07,Main Course,Card,Tuesday,August,Returning,Completed,30,None,Dine-In,15,4
+44,C028,Milkshake,4,60,240,20-08-2025 10:30,Beverage,Card,Wednesday,August,Returning,Completed,40,None,Takeaway,20,2
+150,C041,Garlic Bread,2,250,500,17-09-2025 20:37,Snack,UPI,Wednesday,September,Returning,Completed,15,None,Online,6,5
+191,C049,Veg Pizza,3,250,750,25-08-2025 21:06,Main Course,Wallet,Monday,August,Returning,Completed,100,None,Takeaway,9,5
+84,C004,Garlic Bread,4,60,240,18-09-2025 13:13,Snack,Card,Thursday,September,New,Completed,5,None,Online,13,5
+106,C028,Mojito,3,90,270,13-09-2025 10:34,Beverage,UPI,Saturday,September,Returning,Completed,45,None,Takeaway,27,3
+54,C031,Chicken Wings,2,150,300,27-09-2025 14:20,Snack,Card,Saturday,September,New,Completed,10,None,Dine-In,27,4
+2,C003,Chocolate Cake,1,350,350,12-09-2025 09:47,Dessert,Card,Friday,September,New,Completed,55,None,Online,23,3
+50,C019,Chocolate Cake,1,250,250,01-09-2025 14:26,Dessert,UPI,Monday,September,New,Completed,100,Promo Day,Takeaway,30,4
+81,C042,Paneer Tikka,2,150,300,18-08-2025 08:13,Main Course,Card,Monday,August,New,Completed,30,None,Dine-In,13,5
+72,C030,Sushi Roll,4,150,600,12-08-2025 08:22,Main Course,UPI,Tuesday,August,Returning,Completed,40,None,Dine-In,13,3
+35,C010,Fish & Chips,1,150,150,01-08-2025 22:46,Main Course,Wallet,Friday,August,New,Completed,60,Festival Offer,Dine-In,13,5
+199,C004,Hot Dog,2,120,240,17-08-2025 20:04,Main Course,UPI,Sunday,August,New,Completed,10,Promo Day,Takeaway,11,4
+92,C009,Margherita Pizza,1,50,50,05-07-2025 11:45,Main Course,Card,Saturday,July,New,Cancelled,10,None,Dine-In,16,5
+53,C013,Tacos,1,350,350,01-09-2025 06:59,Main Course,Wallet,Monday,September,Returning,Cancelled,85,None,Takeaway,11,5
+172,C020,Chicken Burger,1,50,50,10-08-2025 14:22,Main Course,Cash,Sunday,August,Returning,Completed,90,None,Takeaway,14,4
+108,C035,Lemonade,3,120,360,28-08-2025 09:37,Beverage,Wallet,Thursday,August,New,Cancelled,30,None,Takeaway,18,2
+14,C032,Paneer Tikka,1,350,350,12-08-2025 09:15,Main Course,UPI,Tuesday,August,New,Completed,75,None,Takeaway,12,5
+89,C020,Paneer Tikka,3,90,270,18-07-2025 21:35,Main Course,Cash,Friday,July,New,Completed,40,None,Takeaway,27,5
+2,C003,Chocolate Cake,1,350,350,26-08-2025 13:53,Dessert,Card,Tuesday,August,New,Completed,55,Promo Day,Online,7,5
+167,C008,Spaghetti,4,120,480,19-09-2025 21:08,Main Course,Card,Friday,September,Returning,Completed,45,None,Dine-In,9,2
+15,C038,Veg Pizza,4,100,400,02-07-2025 06:50,Main Course,Wallet,Wednesday,July,New,Completed,55,None,Online,19,4
+135,C042,Lemonade,2,120,240,11-08-2025 11:52,Beverage,Cash,Monday,August,New,Completed,15,None,Online,7,1
+88,C030,Cheese Pizza,3,50,150,07-08-2025 09:43,Main Course,Cash,Thursday,August,Returning,Completed,30,None,Dine-In,24,5
+175,C024,Chicken Burger,1,60,60,11-07-2025 17:28,Main Course,Card,Friday,July,Returning,Completed,35,None,Dine-In,16,4
+64,C043,Paneer Tikka,1,60,60,06-07-2025 08:43,Main Course,Cash,Sunday,July,Returning,Completed,10,None,Dine-In,24,1
+55,C002,Ice Cream,2,80,160,29-07-2025 18:35,Dessert,UPI,Tuesday,July,Returning,Completed,35,None,Online,17,4
+51,C031,Brownie,4,80,320,26-09-2025 20:20,Dessert,UPI,Friday,September,Returning,Completed,100,None,Online,5,5
+175,C024,Chicken Burger,1,60,60,06-08-2025 18:34,Main Course,Card,Wednesday,August,Returning,Completed,35,Promo Day,Dine-In,20,4
+190,C024,Milkshake,1,120,120,31-08-2025 19:09,Beverage,UPI,Sunday,August,Returning,Completed,55,None,Dine-In,26,3
+179,C011,Milkshake,2,90,180,19-08-2025 07:06,Beverage,Cash,Tuesday,August,Returning,Completed,100,None,Dine-In,8,5
+188,C005,Cheese Pizza,1,350,350,21-09-2025 14:02,Main Course,Card,Sunday,September,Returning,Cancelled,40,Promo Day,Takeaway,24,5
+170,C035,Mojito,4,150,600,04-07-2025 18:08,Beverage,UPI,Friday,July,New,Completed,60,None,Takeaway,28,5
+59,C049,Spring Rolls,4,80,320,02-08-2025 10:31,Snack,Wallet,Saturday,August,Returning,Completed,65,None,Online,6,5
+49,C041,Tacos,3,150,450,24-08-2025 14:28,Main Course,UPI,Sunday,August,Returning,Completed,10,None,Dine-In,8,5
+15,C038,Veg Pizza,4,100,400,03-08-2025 12:45,Main Course,Wallet,Sunday,August,New,Completed,55,None,Online,21,3
+89,C020,Paneer Tikka,3,90,270,05-08-2025 13:52,Main Course,Cash,Tuesday,August,New,Completed,40,None,Online,18,3
+22,C049,Paneer Tikka,3,60,180,20-07-2025 13:51,Main Course,Cash,Sunday,July,New,Cancelled,15,Promo Day,Online,15,4
+163,C046,Grilled Sandwich,4,150,600,30-07-2025 06:14,Snack,Card,Wednesday,July,New,Completed,15,None,Dine-In,6,2
+161,C018,Spaghetti,2,60,120,25-09-2025 08:20,Main Course,Wallet,Thursday,September,Returning,Completed,40,Promo Day,Dine-In,29,3
+106,C028,Mojito,3,90,270,04-09-2025 12:32,Beverage,UPI,Thursday,September,Returning,Completed,45,None,Dine-In,24,4
+192,C008,Fish & Chips,2,200,400,20-08-2025 18:01,Main Course,Cash,Wednesday,August,New,Completed,100,None,Dine-In,20,4
+53,C013,Tacos,1,350,350,04-09-2025 20:13,Main Course,Wallet,Thursday,September,Returning,Cancelled,85,Promo Day,Dine-In,20,4
+53,C013,Tacos,1,350,350,19-07-2025 09:25,Main Course,Wallet,Saturday,July,Returning,Cancelled,85,Promo Day,Dine-In,8,5
+136,C025,Lasagna,3,120,360,28-09-2025 17:28,Main Course,Cash,Sunday,September,Returning,Completed,30,None,Dine-In,9,3
+150,C041,Garlic Bread,2,250,500,02-07-2025 10:30,Snack,UPI,Wednesday,July,Returning,Completed,15,None,Dine-In,16,4
+131,C005,Veg Pizza,4,200,800,02-08-2025 07:40,Main Course,Cash,Saturday,August,Returning,Completed,40,None,Online,30,4
+152,C018,Spring Rolls,2,250,500,04-09-2025 20:41,Snack,UPI,Thursday,September,New,Completed,100,None,Online,30,4
+100,C031,Chicken Burger,2,90,180,11-08-2025 22:37,Main Course,Cash,Monday,August,New,Completed,40,None,Online,20,1
+88,C030,Cheese Pizza,3,50,150,27-07-2025 15:02,Main Course,Cash,Sunday,July,Returning,Completed,30,None,Takeaway,16,5
+172,C020,Chicken Burger,1,50,50,05-08-2025 13:35,Main Course,Cash,Tuesday,August,Returning,Completed,90,None,Dine-In,22,2
+104,C034,Ice Cream,4,120,480,16-08-2025 12:20,Dessert,Cash,Saturday,August,New,Completed,15,Promo Day,Takeaway,25,4
+122,C036,Ice Cream,3,80,240,19-09-2025 12:11,Dessert,Wallet,Friday,September,New,Completed,55,None,Dine-In,5,3
+96,C004,Veg Burger,1,50,50,24-07-2025 08:37,Main Course,UPI,Thursday,July,New,Completed,100,None,Dine-In,13,5
+21,C017,Garlic Bread,4,100,400,11-07-2025 20:14,Snack,Wallet,Friday,July,New,Completed,80,None,Takeaway,11,4
+189,C001,Chocolate Cake,3,250,750,21-09-2025 08:26,Dessert,Wallet,Sunday,September,New,Completed,100,None,Takeaway,25,4
+72,C030,Sushi Roll,4,150,600,05-09-2025 13:02,Main Course,UPI,Friday,September,Returning,Completed,40,None,Takeaway,25,4
+107,C048,Cupcake,4,60,240,19-07-2025 15:16,Dessert,Wallet,Saturday,July,Returning,Completed,40,Promo Day,Takeaway,10,4
+50,C019,Chocolate Cake,1,250,250,19-08-2025 20:07,Dessert,UPI,Tuesday,August,New,Completed,100,None,Online,28,5
+63,C021,Chicken Wings,3,50,150,18-08-2025 15:55,Snack,Wallet,Monday,August,New,Completed,80,Festival Offer,Dine-In,27,3
+103,C012,Milkshake,3,150,450,25-07-2025 18:19,Beverage,Cash,Friday,July,New,Completed,65,None,Dine-In,22,4
